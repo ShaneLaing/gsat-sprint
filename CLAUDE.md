@@ -56,7 +56,7 @@
 | 素材 | PDF | 索引 |
 |---|---|---|
 | 對話式課本 ch01–ch13 | `pdf/textbook/chNN.pdf` | `index/textbook/chNN.md` |
-| 模考 E3、E4（數A，各區聯合模擬考） | `pdf/mock/YYY-EN.pdf`、詳解 `pdf/mock/YYY-EN-ans.pdf` | `index/mock/YYY-EN.md` |
+| 模考 E3、E4（數A，各區聯合模擬考；跟學生講時就叫卷號，例如「114 E3」，**不要**自己補「第幾次模考」，卷面沒寫） | `pdf/mock/YYY-EN.pdf`、詳解 `pdf/mock/YYY-EN-ans.pdf` | `index/mock/YYY-EN.md` |
 | 學測歷屆 111–115 數A | `pdf/gsat/YYY-A.pdf` | `index/gsat/YYYA.md` |
 | 答案 | — | `index/answers/` |
 | 觀念 → 試卷題目反查 | — | `index/exam-concept-map.md` |
